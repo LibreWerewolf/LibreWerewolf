@@ -1,3 +1,6 @@
 == LibreWerewolf
 
 == Werewolf cards, for everyone!!
+
+
+== I wil soon release each card as an SVG. There will be also a document explaining each role.
